@@ -1,11 +1,11 @@
 {
-    "name": "dkashikar/livewire-datatables",
+    "name": "mediconesystems/livewire-datatables",
     "description": "",
     "keywords": [
         "dkashikar",
         "livewire-datatables"
     ],
-    "homepage": "https://github.com/dkashikar/livewire-datatables",
+    "homepage": "https://github.com/mediconesystems/livewire-datatables",
     "license": "MIT",
     "type": "library",
     "authors": [
